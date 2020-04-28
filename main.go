@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/hashicorp/terraform/plugin"
-	"github.com/terraform-providers/terraform-provider-grafana/grafana"
+	"github.com/crasiak/terraform-provider-grafana/grafana"
+	"github.com/hashicorp/terraform-plugin-sdk/plugin"
 )
 
 func main() {
