@@ -1,3 +1,5 @@
+> **Personal fork — not intended for public consumption.** This is a personal working copy of [grafana/terraform-provider-grafana](https://github.com/grafana/terraform-provider-grafana), kept for experiments. It is unmaintained and unsupported, may diverge from upstream or be rewritten at any time, and nothing here is released for others to use. Use the upstream project instead.
+
 Terraform Provider
 ==================
 
